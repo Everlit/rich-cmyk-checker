@@ -51,16 +51,29 @@ This uses the MIT license. My pseudonym is Everlit (though it might also happen 
   - Author(s) of Pillow: Jeffrey A. Clark and contributors (2010)
   - Author(s) of Python Imaging Library (PIL): Secret Labs AB (1997-2011), Fredrik Lundh and contributors (1995-2011)
   - License: https://github.com/python-pillow/Pillow/blob/main/LICENSE
+    
+  The Python Imaging Library (PIL) is
 
-- psd-tools:
+    Copyright © 1997-2011 by Secret Labs AB
+    Copyright © 1995-2011 by Fredrik Lundh and contributors
+    
+  Pillow is the friendly PIL fork. It is
+  
+    Copyright © 2010 by Jeffrey A. Clark and contributors
+
+- psd-tools: 
   - https://github.com/psd-tools/psd-tools
   - Author(s): Kota Yamaguchi (2019)
   - License: https://github.com/psd-tools/psd-tools/blob/main/LICENSE
+    
+  Copyright (c) 2019 Kota Yamaguchi
 
 - pip:
   - https://github.com/pypa/pip
   - Author(s): The pip developers (2008-present)
   - License: https://github.com/pypa/pip/blob/main/LICENSE.txt
+  
+  Copyright (c) 2008-present The pip developers (see AUTHORS.txt file in the pip github)
 
 # Languages Used:
 - Python (https://www.python.org/)
