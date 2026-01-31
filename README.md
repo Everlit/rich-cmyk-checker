@@ -45,6 +45,7 @@ In the case you don't have it though, you can probably just run a "sudo apt inst
 This uses the MIT license. My pseudonym is Everlit (though it might also happen to show as "meow" due to my github screen name being set that way).
 
 # Credits/Third-Party Licenses:
+- See THIRD_PARTY_LICENSES directory for the copies of the licenses.
 - Python Imagine Library (fork):
   - https://python-pillow.github.io
   - https://github.com/python-pillow/Pillow
